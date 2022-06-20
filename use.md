@@ -1,3 +1,3 @@
-# Gitbook使用技巧
+# Gitbook使
 
-哈哈，这是我的第一篇gitbook
+确实可以使用了
